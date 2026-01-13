@@ -14,37 +14,37 @@ The library supports multiple ways to construct dates, validate them, perform da
 
 ## 📌 Core Features (Date Library)
 
-* **✔** Multiple Constructors:
+**✔ Multiple Constructors:**
 – Default constructor initializes the object with the current system date.
 – Construct a date using a string in "dd/mm/yyyy" format.
 – Construct a date using day, month, and year values.
 – Construct a date using day order within the year and the year.
 
-* **✔** Date Validation & Leap Year Checking
+**✔ Date Validation & Leap Year Checking**
 – Validate whether a given date is valid.
 – Check whether a specific year is a leap year.
 
-* **✔** Date Formatting
+**✔ Date Formatting**
 – Convert a date to string format (dd/mm/yyyy).
 
-* **✔** Calendar Generation
+**✔ Calendar Generation**
 – Print the calendar of a specific month.
 – Print the full calendar of a given year.
 
-* **✔** Date Arithmetic
+**✔ Date Arithmetic**
 – Add a specified number of days to the current date.
 – Increase or decrease dates by days, weeks, months, or years.
 
-* **✔** Date Comparison
+**✔ Date Comparison**
 – Compare two dates to determine if one is before, after, or equal to the other.
 
-* **✔** Date Difference Calculation
+**✔ Date Difference Calculation**
 – Calculate the difference in days between two dates.
 
-* **✔** Day of the Week
+**✔ Day of the Week**
 – Determine the day of the week for any given date.
 
-* **✔** Encapsulation & Safety
+**✔ Encapsulation & Safety**
 – Day, month, and year are kept private.
 – All operations are performed through class methods to ensure data integrity.
 ---
