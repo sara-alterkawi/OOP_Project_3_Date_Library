@@ -1,5 +1,5 @@
-🧮**Person – C++ OOP Console Application**
-**Project 4**
+🧮**Date Library – C++ OOP Console Application**
+**Project 3**
 A C++ console-based project that demonstrates how to build a complete and reusable date handling library using object-oriented programming principles.
 
 The project implements a clsDate class that encapsulates date-related data and provides a rich set of methods for date construction, validation, manipulation, comparison, and calendar generation.
